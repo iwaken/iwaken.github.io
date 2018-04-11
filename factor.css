@@ -4,7 +4,7 @@
  h5 {color:DodgerBlue; }
     h1 {color:DodgerBlue; }
     p {
-      background-color:Tomato; 
+      background-color:DodgerBlue; 
     }
    
     img {320pix;240px; float:left;}
@@ -12,7 +12,6 @@
   </style>
     </head>
  
-</head>
 <body>
   <h5 id="TOP" style="text-align:center">
       <a href="index.html">Home</a> </h5>
